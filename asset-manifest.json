@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/static/css/main.a29ed198.css",
+    "main.js": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/static/js/main.b8ddce50.js",
+    "static/js/453.8ab44547.chunk.js": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/static/js/453.8ab44547.chunk.js",
+    "index.html": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/index.html",
+    "main.a29ed198.css.map": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/static/css/main.a29ed198.css.map",
+    "main.b8ddce50.js.map": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/static/js/main.b8ddce50.js.map",
+    "453.8ab44547.chunk.js.map": "/jigneshmistry355.github.io/Student-Registration-Django-Projects/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29ed198.css",
+    "static/js/main.b8ddce50.js"
+  ]
+}
